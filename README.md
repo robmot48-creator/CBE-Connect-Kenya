@@ -1,2 +1,10 @@
-# cbc-connect-kenya
-Kenya's Next Generation CBC/CBE Learning Ecosystem - A comprehensive platform supporting learners, teachers, parents, and Ministry stakeholders with AI tutoring, analytics, digital libraries, STEM education, and competency tracking.
+node_modules
+.next
+out
+npm-debug.log*
+.env
+.env.local
+.vercel
+coverage
+.DS_Store
+prisma/dev.db

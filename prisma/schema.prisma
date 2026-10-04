@@ -1,0 +1,45 @@
+export const curricula = [
+  {
+    title: 'Foundational Literacy',
+    description: 'Early literacy, numeracy, communication and playful learning for PP1 and PP2 learners.',
+  },
+  {
+    title: 'Core CBC Subjects',
+    description: 'English, Kiswahili, Mathematics, Science, Social Studies, Religious Education and Life Skills.',
+  },
+  {
+    title: 'Competency Assessment',
+    description: 'Teacher and learner assessment models focused on mastery, practical skills and project-based learning.',
+  },
+  {
+    title: 'STEM & Innovation',
+    description: 'Coding, robotics, AI literacy, maker projects, digital creativity and real-world problem solving.',
+  }
+];
+
+export const dashboardHighlights = [
+  { label: 'Learners active today', value: '48,274' },
+  { label: 'Assessments completed', value: '128,940' },
+  { label: 'Teachers onboarded', value: '6,482' },
+  { label: 'Schools connected', value: '2,164' }
+];
+
+export const subjectAreas = [
+  'English',
+  'Kiswahili',
+  'Mathematics',
+  'Science',
+  'Social Studies',
+  'Technology',
+  'Creative Arts',
+  'Life Skills'
+];
+
+export const aiTutorFeatures = [
+  'CBC concept explanations',
+  'Kiswahili and English support',
+  'Personalized tutoring',
+  'Question generation',
+  'Lesson planning support',
+  'Competency tracking feedback'
+];
